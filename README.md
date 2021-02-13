@@ -13,7 +13,7 @@
 -O/R マッパー フレームワーク：Hibernate ORM 5.4.27.Final + JPA 2.2
 -ログイン認証:Spring Security 5.5.0-M1  
 ログイン認証：Digest認証
-データベース：PostgreSQL 13.1
+データベース：PostgreSQL 13.2
 -データベース管理ツール：PgAdmin 4.30
 ビルドツール：Apache Maven 3.6.3
 ```
