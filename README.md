@@ -5,7 +5,7 @@
 開発環境：Eclipse 2021-06 R(4.20.0) Pleiades Spring Tool Suite プラグイン 4.11.0
 言語：Java 11
 デベロッパーSDK：Adopt OpenJDK 11.0.11 + 9
-フレームワーク：Spring Boot 2.5.1
+フレームワーク：Spring Boot 2.5.2
 -Spring Framework 5.3.8
 -サーブレットエンジン：Apache Tomcat 10.0.0-M1
 -テンプレートエンジン：Thymeleaf 3.0.12 RELEASE
